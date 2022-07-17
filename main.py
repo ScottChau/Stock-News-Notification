@@ -27,7 +27,7 @@ alpha_url = "https://www.alphavantage.co/query"
 response = requests.get (url = alpha_url, params=stock_para)
 response.raise_for_status()
 data = response.json()
-# Angela's way of getting dictionary to list
+
 data_daily = data["Time Series (Daily)"]
 data_list = [value for (key,value) in data_daily.items()]
 yesterday_price = data_list[0]["4. close"]
