@@ -2,9 +2,12 @@
 
 API Webiste:
 
-https://www.twilio.com/\n
-https://newsapi.org/v2/everything\n
+https://www.twilio.com/
+
+https://newsapi.org/v2/everything
+
 https://www.alphavantage.co/
+
 
 Aims:
 
