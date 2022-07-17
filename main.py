@@ -5,6 +5,7 @@ from twilio.rest import Client
 # API website 
 # 1. https://newsapi.org/
 # 2. https://www.alphavantage.co/
+# 3. https://www.alphavantage.co/
 
 
 # Fetch data for stock price
